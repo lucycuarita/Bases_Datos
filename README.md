@@ -13,7 +13,6 @@
 > - Tema 6 : Lenguaje R y Bases de Datos
 
 
-
 ## `Bibliografía`
 * Ricardo, Catherine M., (2009). “Bases de Datos”, Editorial McGraw Hill Interamericana Editores S.A., México.
 * Silberschutz, Kort y Sudarstran. Fundamentos de Base de Datos. Editorial McGrawHill.
@@ -26,7 +25,7 @@
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primer Parcial	|    25 | 6/10/2020    | 1 y 2 |
-| Segundo Parcial   	|    25 | 26/13/2020   | 3 y 4 |
+| Segundo Parcial   	|    25 | 24/11/2020   | 3 y 4 |
 | Tercer Parcial     	|    30 | 10/12/2020   | 5 y 6 |
 | Prácticas             |    20 |     |       |
 
@@ -37,7 +36,7 @@
 | 1	|4 	| 15/09/2020     |
 | 2	|4	| 06/10/2020     |
 | 3	|4	| 27/10/2020     |
-| 4	|4	| 19/11/2020     |
+| 4	|4	| 24/11/2020     |
 | 5	|4	| 10/12/2020     |
 
 Nota. Las prácticas deberán ser elaboradas en un procesador de textos (Word) o Sistema Tipográfico (LaTeX). 
@@ -48,8 +47,7 @@ Nota. Las prácticas deberán ser elaboradas en un procesador de textos (Word) o S
 | 1    | 01/9/2020   | 
 | 2    | 15/9/2020   | 
 | 3    | 13/10/2020   |   
-| 4    | 27/10/2020 -> | 
-
+| 4    | 10/11/2020 -> | 
 
 
 ### `Examen Recuperatorio`
